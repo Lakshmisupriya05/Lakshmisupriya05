@@ -145,17 +145,6 @@ Collection of Django applications covering:
 
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lakshmisupriya05&layout=compact&theme=tokyonight&hide_border=true"/>
 
-</p>
-
----
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=Lakshmisupriya05&theme=tokyonight&column=7&margin-w=15&margin-h=15"/>
-
-</p>
 
 ---
 
@@ -177,11 +166,11 @@ Collection of Django applications covering:
 <img src="https://skillicons.dev/icons?i=github"/>
 </a>
 
-<a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
+<a href="https://www.linkedin.com/in/lakshmi-supriya-vasala/">
 <img src="https://skillicons.dev/icons?i=linkedin"/>
 </a>
 
-<a href="mailto:your-email@example.com">
+<a href="mailto:lakshmisupriyavasala@gmail.com">
 <img src="https://skillicons.dev/icons?i=gmail"/>
 </a>
 
